@@ -14,7 +14,7 @@ Tel: +31 85 2033 299<br>
 Email: [info@simplepark.nl](mailto:info@simplepark.nl)<br>
 
 Chamber of Commerce (KvK): 96305827<br>
-VAT ID: NL123456789B01<br>
+VAT ID: NL867555257B01<br>
 
 ---
 
