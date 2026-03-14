@@ -16,7 +16,7 @@ SimplePark is primarily a **closed-source** company (B.V.). Our core platform an
 - [Contributing Guidelines](https://github.com/simplepark/.github/blob/main/CONTRIBUTING.md)
 - [Contributor License Agreement](https://github.com/simplepark/.github/blob/main/CONTRIBUTORS_LICENSE_AGREEMENT.md)
 
-## 🧑‍🎓Internships
+## 🧑‍🎓 Internships
 
 Are you a student in the Netherlands and looking for an internship? We are always interested in meeting motivated people who want to work on real-world software that impacts everyday life. Don't hesitate to reach out at [jasper@simplepark.nl](mailto:jasper@simplepark.nl).
 
