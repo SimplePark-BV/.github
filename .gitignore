@@ -1,0 +1,14 @@
+documentation/site/
+__pycache__/
+.DS_Store
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Generic secrets
+.env
+*.save
+
