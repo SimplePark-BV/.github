@@ -1,0 +1,11 @@
+{
+  "config": {
+    "default": true,
+    "MD013": false, // Disable line length check (80 chars is too restrictive for tables and URLs)
+    "MD033": false, // Allow inline HTML (needed for MkDocs card grids etc.)
+    "MD041": false  // Allow files to start without H1 (metadata titles, READMEs)
+  },
+  "globs": [
+    "**/*.md",
+  ]
+}

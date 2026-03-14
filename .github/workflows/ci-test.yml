@@ -1,0 +1,26 @@
+---
+name: CI / Test
+run-name: CI | Test
+
+concurrency:
+  group: ${{ github.workflow_ref }}-${{ github.ref }}
+  cancel-in-progress: true
+
+"on":
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  test:
+    name: Test
+    runs-on: simplepark-runners
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: No tests yet
+        run: >-
+          echo "No automated tests are defined yet.
+          This job exists to satisfy branch
+          protection requirements."
