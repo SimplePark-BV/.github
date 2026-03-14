@@ -17,7 +17,7 @@ Instead, please email us at [info@simplepark.nl](mailto:info@simplepark.nl) with
 
 ### Scope
 
-This policy applies to all repositories within the [SimplePark GitHub organization](https://github.com/simplepark). For security issues related to our public-facing services at [simplepark.nl](https://www.simplepark.nl), please use the same email address.
+This policy applies to all repositories within the [SimplePark GitHub organization](https://github.com/simplepark-bv). For security issues related to our public-facing services at [simplepark.nl](https://www.simplepark.nl), please use the same email address.
 
 ## Supported Versions
 

@@ -2,7 +2,7 @@
 
 This is the **organization-level `.github` repository** for [SimplePark](https://www.simplepark.nl). It contains:
 
-- **[Organization Profile](profile/README.md)** -- the public profile displayed on [github.com/simplepark](https://github.com/simplepark).
+- **[Organization Profile](profile/README.md)** -- the public profile displayed on [github.com/simplepark-bv](https://github.com/simplepark-bv).
 - **Default community health files** that apply to all repositories in the SimplePark organization unless overridden by a repository-specific version.
 
 ## Contents

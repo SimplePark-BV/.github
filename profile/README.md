@@ -12,9 +12,9 @@ Learn more at [simplepark.nl](https://www.simplepark.nl).
 
 SimplePark is primarily a **closed-source** company (B.V.). Our core platform and products are proprietary. When we do publish open-source work, the following community guidelines apply across all our repositories:
 
-- [Code of Conduct](https://github.com/simplepark/.github/blob/main/CODE_OF_CONDUCT.md)
-- [Contributing Guidelines](https://github.com/simplepark/.github/blob/main/CONTRIBUTING.md)
-- [Contributor License Agreement](https://github.com/simplepark/.github/blob/main/CONTRIBUTORS_LICENSE_AGREEMENT.md)
+- [Code of Conduct](https://github.com/simplepark-bv/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Contributing Guidelines](https://github.com/simplepark-bv/.github/blob/main/CONTRIBUTING.md)
+- [Contributor License Agreement](https://github.com/simplepark-bv/.github/blob/main/CONTRIBUTORS_LICENSE_AGREEMENT.md)
 
 ## 🧑‍🎓 Internships
 
@@ -27,7 +27,7 @@ Are you a student in the Netherlands and looking for an internship? We are alway
 
 ### Provider Information
 
-See [Provider Information](https://github.com/simplepark/.github/blob/main/PROVIDER_INFORMATION.md) for details on SimplePark B.V.
+See [Provider Information](https://github.com/simplepark-bv/.github/blob/main/PROVIDER_INFORMATION.md) for details on SimplePark B.V.
 
 ---
 

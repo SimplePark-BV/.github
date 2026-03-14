@@ -33,7 +33,7 @@ Chamber of Commerce (KvK): 96305827<br>
 
 **"Contribution"** means any Contributor's Work of Authorship submitted by the Contributor to SimplePark.
 
-**"Project"** means any SimplePark software project published on <https://github.com/simplepark> in which software and/or documentation is made available under an open-source license determined by SimplePark per repository.
+**"Project"** means any SimplePark software project published on <https://github.com/simplepark-bv> in which software and/or documentation is made available under an open-source license determined by SimplePark per repository.
 
 **"Contributor's Work of Authorship"** means any work of authorship -- including but not limited to software code, documentation, databases, or portions thereof -- that has been independently developed, invented, designed, or otherwise created by (i) the Contributor, and/or (ii) third parties on behalf of the Contributor (e.g., the Contributor's employees).
 
