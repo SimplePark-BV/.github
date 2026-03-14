@@ -14,7 +14,7 @@ concurrency:
 jobs:
   format:
     name: Format
-    runs-on: simplepark-runners
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
