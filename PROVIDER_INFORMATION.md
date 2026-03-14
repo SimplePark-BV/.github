@@ -2,6 +2,7 @@
 
 ---
 
+<!-- markdownlint-disable-next-line MD026 -->
 ## SimplePark B.V.
 
 SimplePark B.V.<br>
@@ -10,7 +11,7 @@ Valstraat 3<br>
 The Netherlands<br>
 
 Tel: +31 85 2033 299<br>
-Email: info@simplepark.nl<br>
+Email: [info@simplepark.nl](mailto:info@simplepark.nl)<br>
 
 Chamber of Commerce (KvK): 96305827<br>
 VAT ID: NL123456789B01<br>

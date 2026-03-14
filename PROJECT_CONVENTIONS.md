@@ -28,7 +28,7 @@ Use the following prefixes for branch names:
 
 Follow the [Conventional Commits](https://www.conventionalcommits.org/) specification:
 
-```
+```text
 <type>(<optional scope>): <description>
 
 [optional body]
@@ -39,6 +39,7 @@ Follow the [Conventional Commits](https://www.conventionalcommits.org/) specific
 Common types: `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`, `ci`, `perf`, `build`.
 
 Examples:
+
 - `feat(zones): add geofence validation for parking zones`
 - `fix(payments): handle timeout on iDEAL callback`
 - `docs: update API authentication guide`
@@ -47,13 +48,14 @@ Examples:
 
 Follow the same [Conventional Commits](https://www.conventionalcommits.org/) format used for commit messages:
 
-```
+```text
 <type>(<optional scope>): <description>
 ```
 
 Common types: `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`, `ci`, `perf`, `build`.
 
 Examples:
+
 - `feat(zones): add geofence validation for parking zones`
 - `fix(payments): handle timeout on iDEAL callback`
 - `docs: update API authentication guide`
@@ -71,10 +73,10 @@ Issue templates use [GitHub's YAML issue forms](https://docs.github.com/en/commu
 
 | Template        | Path                                                                                       | Purpose                                |
 |-----------------|--------------------------------------------------------------------------------------------|----------------------------------------|
-| Bug Report      | [`.github/ISSUE_TEMPLATE/bug_report.yml`](.github/ISSUE_TEMPLATE/bug_report.yml)           | Reporting bugs with reproduction steps   |
-| Feature Request | [`.github/ISSUE_TEMPLATE/feature_request.yml`](.github/ISSUE_TEMPLATE/feature_request.yml) | Proposing new features or enhancements   |
-| Task            | [`.github/ISSUE_TEMPLATE/task.yml`](.github/ISSUE_TEMPLATE/task.yml)                       | General work or technical debt           |
-| Template Config | [`.github/ISSUE_TEMPLATE/config.yml`](.github/ISSUE_TEMPLATE/config.yml)                   | Template chooser configuration           |
+| Bug Report      | [`.github/ISSUE_TEMPLATE/bug_report.yml`](.github/ISSUE_TEMPLATE/bug_report.yml)           | Reporting bugs with reproduction steps |
+| Feature Request | [`.github/ISSUE_TEMPLATE/feature_request.yml`](.github/ISSUE_TEMPLATE/feature_request.yml) | Proposing new features or enhancements |
+| Task            | [`.github/ISSUE_TEMPLATE/task.yml`](.github/ISSUE_TEMPLATE/task.yml)                       | General work or technical debt         |
+| Template Config | [`.github/ISSUE_TEMPLATE/config.yml`](.github/ISSUE_TEMPLATE/config.yml)                   | Template chooser configuration         |
 | Pull Request    | [`.github/PULL_REQUEST_TEMPLATE.md`](.github/PULL_REQUEST_TEMPLATE.md)                     | Standard PR description structure      |
 
 Use these templates when creating issues and pull requests. Repositories that need additional templates can extend this set while keeping the defaults.
