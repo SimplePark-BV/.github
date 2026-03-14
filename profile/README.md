@@ -1,6 +1,6 @@
 # Welcome to the SimplePark Platform
 
-![SimplePark Banner](https://raw.githubusercontent.com/simplepark/.github/main/assets/banner.jpeg)
+![SimplePark Banner](https://raw.githubusercontent.com/SimplePark-BV/.github/refs/heads/main/assets/banner.jpeg)
 
 ## ✨ About SimplePark
 
