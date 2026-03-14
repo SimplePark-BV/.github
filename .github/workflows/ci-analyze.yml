@@ -1,3 +1,4 @@
+---
 name: CI / Analyze
 run-name: CI | Analyze
 
@@ -5,7 +6,7 @@ concurrency:
   group: ${{ github.workflow_ref }}-${{ github.ref }}
   cancel-in-progress: true
 
-on:
+"on":
   pull_request:
     branches:
       - main

@@ -1,3 +1,4 @@
+---
 name: Feature Request
 description: Suggest an idea or improvement
 type: feature
@@ -23,7 +24,9 @@ body:
     id: description
     attributes:
       label: Description
-      description: A clear and concise description of the feature or improvement you'd like.
+      description: >-
+        A clear and concise description of the
+        feature or improvement you'd like.
     validations:
       required: true
 
@@ -31,7 +34,9 @@ body:
     id: use-case
     attributes:
       label: Use Case
-      description: Describe the problem or workflow this feature would address. Why is it needed?
+      description: >-
+        Describe the problem or workflow this
+        feature would address. Why is it needed?
     validations:
       required: true
 
@@ -39,7 +44,9 @@ body:
     id: proposed-solution
     attributes:
       label: Proposed Solution
-      description: A clear and concise description of how you'd like this to work.
+      description: >-
+        A clear and concise description of how
+        you'd like this to work.
     validations:
       required: false
 
@@ -47,7 +54,9 @@ body:
     id: alternatives-considered
     attributes:
       label: Alternatives Considered
-      description: Describe any alternative solutions or workarounds you've considered.
+      description: >-
+        Describe any alternative solutions or
+        workarounds you've considered.
     validations:
       required: false
 
@@ -55,6 +64,8 @@ body:
     id: additional-context
     attributes:
       label: Additional Context
-      description: Add any other context, mockups, or references about the feature request here.
+      description: >-
+        Add any other context, mockups, or references
+        about the feature request here.
     validations:
       required: false

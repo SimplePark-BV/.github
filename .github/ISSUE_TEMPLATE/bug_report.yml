@@ -1,3 +1,4 @@
+---
 name: Bug Report
 description: Report a bug to help us improve
 type: bug
@@ -55,7 +56,9 @@ body:
     id: screenshots
     attributes:
       label: Screenshots
-      description: If applicable, upload screenshots to help explain the problem.
+      description: >-
+        If applicable, upload screenshots to help
+        explain the problem.
     validations:
       required: false
 
