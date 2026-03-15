@@ -3,23 +3,6 @@ name: Feature Request
 description: Suggest an idea or improvement
 type: feature
 body:
-  - type: dropdown
-    id: size
-    attributes:
-      label: Size
-      description: Estimated effort for this feature.
-      options:
-        - "Size:0"
-        - "Size:1"
-        - "Size:2"
-        - "Size:3"
-        - "Size:5"
-        - "Size:8"
-        - "Size:13"
-        - "Size:20"
-    validations:
-      required: true
-
   - type: textarea
     id: description
     attributes:

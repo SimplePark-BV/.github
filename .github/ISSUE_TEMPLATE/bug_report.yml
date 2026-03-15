@@ -3,19 +3,6 @@ name: Bug Report
 description: Report a bug to help us improve
 type: bug
 body:
-  - type: dropdown
-    id: priority
-    attributes:
-      label: Priority
-      description: How critical is this bug?
-      options:
-        - P0 (Critical — pick up ASAP)
-        - P1 (High)
-        - P2 (Medium)
-        - P3 (Low)
-    validations:
-      required: true
-
   - type: textarea
     id: description
     attributes:
