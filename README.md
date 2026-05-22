@@ -1,4 +1,11 @@
-# .github
+<div>
+  <a href="https://simplepark.nl" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SimplePark-BV/.github/refs/heads/main/assets/repository_banners/simplepark_github/dark.svg">
+      <img alt="SimplePark GitHub" src="https://raw.githubusercontent.com/SimplePark-BV/.github/refs/heads/main/assets/repository_banners/simplepark_github/light.svg">
+    </picture>
+  </a>
+</div>
 
 This is the **organization-level `.github` repository** for [SimplePark](https://www.simplepark.nl). It contains:
 
